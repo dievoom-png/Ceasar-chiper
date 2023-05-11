@@ -1,4 +1,4 @@
-Caesar Cipher Implementation in C#
+# Caesar Cipher Implementation in C#
 
 This is a C# implementation of the Caesar cipher algorithm. This program allows the user to encrypt a given message using a key provided by the user.
 How to use the Program
@@ -10,7 +10,7 @@ How to use the Program
     5- Input a key for the cipher and the message that you want to encrypt.
     6- The program will output the encrypted message.
 
-How the Caesar Cipher Works
+### How the Caesar Cipher Works
 
 The Caesar Cipher is a simple encryption technique that involves shifting the letters of a message a certain number of positions down the alphabet. The key is the number of positions that each letter is shifted. For example, if the key is 3, then each letter in the message is replaced with the letter that is 3 positions down the alphabet.
 
